@@ -11,7 +11,7 @@
 	},
 	{
 		"back_flavor": "Joe Diamond ist Privatdetektiv. Ihm eilt der Ruf voraus, auch jene Fälle lösen zu können, die jeder andere als übernatürlichen Unsinn abtut. Er führt seine Ermittlungen gründlich durch und man sollte nicht den Fehler machen, ihn zu unterschätzen. Zu seinen Kunden gehören sowohl Wohlhabende als auch Unglücksraben. Kein Fall ist ihm zu groß, zu klein, zu seltsam oder zu gefährlich. Joe hat die Erfahrung gemacht, dass es richtig unangenehm werden kann, wenn man der Wahrheit auf die Spur kommt - und genau das mag er.",
-		"back_text": "<b>Deckgröße</b>: 40.\n<b>Deckbau-Optionen</b>: Sucherkarten ([seeker]) Stufe 0-5, Wächterkarten ([guardian]) Stufe 0-2, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): M1911-Colts des Detektivs, Ungelöster Fall, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen</b>: Dein Deck muss mindesten 11 [[Erkenntnis]]-Ereigniskarten enthalten (einschließlich Ungelöster Fall). Während der Vorbereitung jedes Szenarios musst du 11 11 [[Erkenntnis]]-Ereigniskarten aus deinem Deck wählen (1 davon muss Ungelöster Fall sein) und sie zum separaten „Spürnase-Deck“ zusammenmischen.",
+		"back_text": "<b>Deckgröße</b>: 40.\n<b>Deckbau-Optionen</b>: Sucherkarten ([seeker]) Stufe 0-5, Wächterkarten ([guardian]) Stufe 0-2, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): M1911-Colts des Detektivs, Ungelöster Fall, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen</b>: Dein Deck muss mindesten 11 [[Erkenntnis]]-Ereigniskarten enthalten (einschließlich Ungelöster Fall). Während der Vorbereitung jedes Szenarios musst du 11 [[Erkenntnis]]-Ereigniskarten aus deinem Deck wählen (1 davon muss Ungelöster Fall sein) und sie zum separaten „Spürnase-Deck“ zusammenmischen.",
 		"code": "05002",
 		"name": "Joe Diamond",
 		"subname": "Der Privatdetektiv",
@@ -233,7 +233,7 @@
 	{
 		"code": "05032",
 		"name": "Existenz verleugnen",
-		"text": "Schnell. Spiele diese Karte, sobald dich eine Begegnungskarte oder ein Angriff eines Gegners zu 1 der folgenden Effekte zwingen würde (wähle eins): Karten von der Hand ablegen, Ressourcen verlieren, Aktionen verlieren, Schaden nehmen oder Horror nehmen.\nDu ignorierst jenen Aspekt des Effekts. <i>(Alle weiteren Effekte werden normal abgehandelt.)</i>",
+		"text": "Schnell. Spiele diese Karte, sobald dich eine Begegnungskarte oder ein Angriff eines Gegners zu einem der folgenden Effekte zwingen würde (wähle einen): Karten von der Hand ablegen, Ressourcen verlieren, Aktionen verlieren, Schaden nehmen oder Horror nehmen.\nDu ignorierst jenen Aspekt des Effekts. <i>(Alle weiteren Effekte werden normal abgehandelt.)</i>",
 		"traits": "Zauber. Paradox."
 	},
 	{
