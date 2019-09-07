@@ -1,9 +1,9 @@
 [	
 	{
 		"code": "05229",
-		"flavor": "\"Keinen Schritt weiter!\"",
+		"flavor": "„Keinen Schritt weiter!“",
 		"name": "Warnschuss",
-		"text": "Als zusätzliche Kosten, um Warnschuss zu spielen, gib 1 Munition einer [[Feuerwaffe]]-Vorteilskarte aus, die du kontrollierst.\nBewege alle Nicht-[[Elite]]-Gegner an deinem Ort an einen verbundenen Ort. Diese Attacke provoziert keine Gelegenheitsangriffe.",
+		"text": "Als zusätzliche Kosten, um Warnschuss zu spielen, gib 1 Munition einer [[Feuerwaffe]]-Vorteilskarte aus, die du kontrollierst.\nBewege alle Nicht-[[Elite]]-Gegner an deinem Ort an einen verbundenen Ort. Diese Aktion provoziert keine Gelegenheitsangriffe.",
 		"traits": "Taktik. Trick."
 	},
 	{
@@ -14,7 +14,7 @@
 	},
 	{
 		"code": "05231",
-		"flavor": "... und Macht verdirbt.",
+		"flavor": "… und Macht verdirbt.",
 		"name": "Wissen ist Macht",
 		"text": "Schnell. Spiele diese Karte nur in deinem Zug.\nWähle eine [[Buch]]-oder [[Zauber]]-Vorteilskarte, die du kontrollierst, oder enthülle eine [[Buch]]- oder [[Zauber]]-Vorteilskarte von deiner Hand. Handle eine [action]- oder [free]-Fähigkeit jener Vorteilskarte ab und ignoriere dafür alle Kosten <i>(einschließlich ihrer [action]-Kosten, sofern vorhanden)</i>. Falls jene Vorteilskarte auf deiner Hand war, darfst du sie dann ablegen, um 1 Karte zu ziehen.",
 		"traits": "Erkenntnis."
@@ -29,18 +29,18 @@
   	{
 		"code": "05233",
 		"name": "Investitionen",
-		"text": "Anwendungen (0 Vorräte). Nur bis zu 10 Vorräte auf Investitionen.\n[free] Erschöpfe Investitionen: Platziere 1 Vorrat auf dieser Karte.\n[action] Erschöpfe Investitionen und lege diese Karte ab: Bewege alle Vorräte von dieser Karte als Ressourcen in deinen Ressourcenvorrat.",
+		"text": "Anwendungen (0 Vorräte). Nur bis zu 10 Vorräte auf Investitionen.\n[free] Erschöpfe Investitionen: Platziere 1 Vorrat auf diese Karte.\n[action] Erschöpfe Investitionen und lege diese Karte ab: Bewege alle Vorräte von dieser Karte als Ressourcen in deinen Ressourcenvorrat.",
 		"traits": "Verbindung."
   	},
 	{
 		"code": "05234",
 		"name": "Ablenkungsmanöver",
-		"text": "<b>Entkommen.</b> Entkomme automatisch einem Nicht-[[Elite]]-Gegner an deinem Ort.\n[reaction] Sobald du das Ablenkungsmanöver spielst, erhöhe die Kosten dieser Karte um 2: Ändere \"einem Nicht-[[Elite]]-Gegner\" in \"bis zu 2 Nicht-[[Elite]]-Gegnern.\"\n[reaction] Sobald du das Ablenkungsmanöver spielst, erhöhe die Kosten dieser Karte um 2: Ändere \"an deinem Ort\" in \"an einem bis zu 2 Verbindungen entfernten Ort.\"",
+		"text": "<b>Entkommen.</b> Entkomme automatisch einem Nicht-[[Elite]]-Gegner an deinem Ort.\n[reaction] Sobald du das Ablenkungsmanöver spielst, erhöhe die Kosten dieser Karte um 2: Ändere „einem Nicht-[[Elite]]-Gegner“ in „bis zu 2 Nicht-[[Elite]]-Gegnern.“\n[reaction] Sobald du das Ablenkungsmanöver spielst, erhöhe die Kosten dieser Karte um 2: Ändere „an deinem Ort“ in „an einem bis zu 2 Verbindungen entfernten Ort.“",
 		"traits": "Gefallen. Dienst."
 	},
 	{
 		"code": "05235",
-		"flavor": "Ludwig Prinn war sein Autor, der auf dem Höhepunkt der Hexenprozesse in Brüssel auf dem Scheiterhaufen starb. - frei nach Robert Bloch, \"The Shambler from the Stars\"",
+		"flavor": "Ludwig Prinn war sein Autor, der auf dem Höhepunkt der Hexenprozesse in Brüssel auf dem Scheiterhaufen starb.\n- frei nach Robert Bloch, „The Shambler from the Stars“ ",
 		"name": "De Vermis Mysteriis",
 		"slot": "Hand",
 		"subname": "Vorzeichen der Schwarzen Sterne",
@@ -57,7 +57,7 @@
 	{
 		"code": "05237",
 		"name": "Glück oder Schicksal",
-		"text": "Schnell. Spiele diese Karte, sobald Verderben auf einer beliebigen Szenariokarte platziert werden würde.\nMax. 1 pro Spiel.\nHebe 1 Verderben auf, das gerade auf jener Karte platziert worden ist. Schicke Glück oder Schicksal ins Exil.",
+		"text": "Schnell. Spiele diese Karte, sobald Verderben auf eine beliebigen Szenariokarte platziert werden würde.\nMax. 1 pro Spiel.\nHebe 1 Verderben auf, das gerade auf jene Karte platziert worden ist. Schicke Glück oder Schicksal ins Exil.",
 		"traits": "Glücksfall. Gesegnet."
 	}
 ]

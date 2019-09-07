@@ -34,7 +34,7 @@
 	{
 		"code": "05191",
 		"name": "Tennessee Sour Mash",
-		"text": "Anwendungen (3 supplies).\n[fast] Erschöpfe Tennessee Sour Mash und gib 1 Vorrat aus: Du bekommst für eine Fertigkeitsprobe auf einer Verratskarte +2 [willpower].\n[action] Lege Tennessee Sour Mash ab: <b>Kampf.</b> Du bekommst für diesen Angriff +3 [combat]. Fall dieser Angriff gegen einen Nicht-[[Elite]]-Gegner erfolgreich ist, entkommst du ihm automatisch.",
+		"text": "Anwendungen (3 Vorräte).\n[fast] Erschöpfe Tennessee Sour Mash und gib 1 Vorrat aus: Du bekommst für eine Fertigkeitsprobe auf einer Verratskarte +2 [willpower].\n[action] Lege Tennessee Sour Mash ab: <b>Kampf.</b> Du bekommst für diesen Angriff +3 [combat]. Fall dieser Angriff gegen einen Nicht-[[Elite]]-Gegner erfolgreich ist, entkommst du ihm automatisch.",
 		"traits": "Gegenstand. Illegal."
 	},
 	{

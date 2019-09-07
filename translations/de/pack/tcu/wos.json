@@ -1,7 +1,7 @@
 [
 	{
 		"code": "05151",
-		"flavor": "\"Bitte überlass Sie das uns. Falls Sie hier nochmal rumschnüffeln, fahren Sie ein.\"",
+		"flavor": "„Bitte überlass Sie das uns. Falls Sie hier nochmal rumschnüffeln, fahren Sie ein.“",
 		"name": "Alice Luxley",
 		"slot": "Verbündeter",
 		"subname": "Furchtloser Bulle",
@@ -11,13 +11,13 @@
 	{
 		"code": "05152",
 		"name": "Gut gepflegt",
-		"text": "Schnell. Spiele diese Karte nur in deinem Zug.\n Hänge diese Karte an eine [[Gegenstand]]-Vorteilskarte an, die du kontrollierst. Nur 1 pro Vorteilskarte.\n[reaction] Nachdem die Vorteilskarte mit dieser Verstärkung abgelegt worden ist: Schicke die Vorteilskarte zusammen mit jeder anderen [[Verbesserung]], die an sie angehängt war, auf die Hand ihres Besitzers zurück.",
+		"text": "Schnell. Spiele diese Karte nur in deinem Zug.\nHänge diese Karte an eine [[Gegenstand]]-Vorteilskarte an, die du kontrollierst. Nur 1 pro Vorteilskarte.\n[reaction] Nachdem die Vorteilskarte mit dieser Verstärkung abgelegt worden ist: Schicke die Vorteilskarte zusammen mit jeder anderen [[Verbesserung]], die an sie angehängt war, auf die Hand ihres Besitzers zurück.",
 		"traits": "Verbesserung."
 	},
 	{
 		"code": "05153",
-		"flavor": "\"Möchten Sie das wirklich wissen? Dann gibt es kein Zurück mehr.\"",
-		"name": "Mr. \"Rook\"",
+		"flavor": "„Möchten Sie das wirklich wissen? Dann gibt es kein Zurück mehr.“",
+		"name": "Mr. „Rook“",
 		"slot": "Verbündeter",
 		"subname": "Geheimnishändler",
 		"text": "Anwendungen (3 Geheimnisse).\n[free] Erschöpfe Mr. \"Rook\" und gib 1 Geheimnis aus: Durchsuche die obersten 3, 6 oder 9 Karten deines Decks nach einer beliebigen Karte und ziehe sie. Falls unter den angesehenen Karten mindestens 1 Schwäche ist, ziehe außerdem 1 von ihnen. Mische dein Deck.",
@@ -25,9 +25,9 @@
 	},
 	{
 		"code": "05154",
-		"name": "\"Hawk-Eye\"-Klappkamera",
+		"name": "„Hawk Eye“-Klappkamera",
 		"slot": "Hand",
-		"text": "[reaction] Nachdem der letzte Hinweis an deinem Ort entdeckt worden ist: Platziere 1 Ressource <i>(aus dem Ressourcenvorrat)</i> als Beweis auf diese Karte. (Nur ein Mal pro Spiel an jedem Ort.)\nSolange die \"Hawk-Eye\"-Klappkamera...\n- ... 1 oder mehr Beweise hat, bekommst du +1 [willpower].\n- ... 2 oder mehr Beweise hat, bekommst du +1 [intellect].\n- ... 3oder mehr Beweise hat, bekommst du +1 sanity.",
+		"text": "[reaction] Nachdem der letzte Hinweis an deinem Ort entdeckt worden ist: Platziere 1 Ressource <i>(aus dem Ressourcenvorrat)</i> als Beweis auf diese Karte. (Nur ein Mal pro Spiel an jedem Ort.)\nSolange die „Hawk Eye“-Klappkamera…\n- … 1 oder mehr Beweise hat, bekommst du +1 [willpower].\n- … 2 oder mehr Beweise hat, bekommst du +1 [intellect].\n- … 3 oder mehr Beweise hat, bekommst du +1 geistige Gesundheit.",
 		"traits": "Gegenstand. Werkzeug."
 	},
 	{
@@ -35,7 +35,7 @@
 		"name": "Henry Wan",
 		"slot": "Verbündeter",
 		"subname": "Aufstrebender Schauspieler",
-		"text": "[action] Erschöpfe Henry Wan: Enthülle nacheinander Marker aus dem Chaosbeutel, bis du dich entscheidest aufzuhören oder bist du ein [skull]-, [cultist]-, [tablet]-, [elder_thing]- oder [auto_fail]-Symbol enthüllst.\n- Falls du dich entscheidest aufzuhören, darfst du für jeden durch diesen Effekt enthüllten Marker entweder 1 Karte ziehen oder 1 Ressource erhalten.\n- Falls du ein [skull]-, [cultist]-, [tablet]-, [elder_thing]- oder [auto_fail]-Symbol enthüllst, tust du nichts.",
+		"text": "[action] Erschöpfe Henry Wan: Enthülle nacheinander Marker aus dem Chaosbeutel, bis du dich entscheidest aufzuhören oder bist du ein [skull]-, [cultist]-, [tablet]-, [elder_thing]- oder [auto_fail]-Symbol enthüllst.\n- Falls du dich entscheidest, aufzuhören, darfst du für jeden durch diesen Effekt enthüllten Marker entweder 1 Karte ziehen oder 1 Ressource erhalten.\n- Falls du ein [skull]-, [cultist]-, [tablet]-, [elder_thing]- oder [auto_fail]-Symbol enthüllst, tust du nichts.",
 		"traits": "Verbündeter. Krimineller."
 	},
 	{
@@ -48,7 +48,7 @@
 		"code": "05157",
 		"name": "Welken",
 		"slot": "Arkan",
-		"text": "[action]: <b>Kampf.</b> Dieser Angriff verwendet [willpower] statt [combat]. Falls ein [skull]-, [cultist]-, [tablet]- oder [elder_thing]-Symbol enthüllt wird, bekommt der angegriffene Gegner für den Rest des Zuges -1 Kampf und -1 Entkommen(bis zu einem Minimum von 1).",
+		"text": "[action]: <b>Kampf.</b> Dieser Angriff verwendet [willpower] statt [combat]. Falls ein [skull]-, [cultist]-, [tablet]- oder [elder_thing]-Symbol während dieses Angriffs enthüllt wird, bekommt der angegriffene Gegner für den Rest des Zuges -1 Kampf und -1 Entkommen (bis zu einem Minimum von 1).",
 		"traits": "Zauber."
 	},
 	{

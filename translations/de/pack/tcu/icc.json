@@ -1,30 +1,77 @@
 [
-    {
-        "code": "05274",
-        "name": "Agency Backup",
-        "text": "Agency Backup may be assigned damage and/or horror dealt to other investigators at your location.\n[free] Exhaust Agency Backup and deal 1 damage to it: Deal 1 damage to an enemy at your location.\n[free] Exhaust Agency Backup and deal 1 horror to it: Discover 1 clue at your location.",
-        "traits": "Ally. Agency.",
-        "slot": "Ally"
-    },
-    {
-        "code": "05279",
-        "name": "Dayana Esperence",
-        "subname": "Deals with \"Devils\"",
-        "text": "Uses (3 secrets).\n[free]: Attach a non-weakness [[Spell]] event from your hand to Dayana Esperence. Limit 1 event attached to her.\nThe attached event may be played as if it were in your hand. It is not placed in your discard pile after it is played <i>(it remains attached)</i>. As an additional cost to play the attached event, exhaust Dayana Esperence and spend 1 secret.",
-        "traits": "Ally. Witch.",
-        "slot": "Ally"
-    },
-    {
-        "code": "05280",
-        "name": "Deny Existence",
-        "text": "Fast. Play when an encounter card or enemy attack would cause you to do one of the following (choose one): Discard cards from hand, lose resources, lose actions, take damage, or take horror.\nYou ignore that aspect of the effect. Then, perform the opposite of that aspect (draw cards, gain resources, gain additional actions, heal damage, or heal horror, respectively).",
-        "traits": "Spell. Paradox."
-    },
-    {
-        "code": "05281",
-        "flavor": "You never really know what you are capable of until something is trying to eat you.",
-        "name": "Trial by Fire",
-        "text": "Fast. Play only during your turn.\nChoose one of your skills. Until the end of your turn, set the base value of that skill to 5.",
-        "traits": "Spirit."
-    }
+	{
+		"code": "05273",
+		"name": "Mark-1-Granaten",
+		"slot": "Hand",
+		"text": "Anwendungen (3 Vorräte). Falls Mark-1-Granaten keine Vorräte hat, lege sie ab.\n[action] Gib 1 Vorrat aus: <b>Kampf.</b> Du bekommst für diesen Angriff +2 [combat]. Falls dieser Angriff gelingt, fügt dieser Angriff statt seines normalen Schadens jedem Gegner und jedem Ermittler an deinem Ort 2 Schaden zu <i>(jeder zusätzliche Schaden wird dem angegriffenen Gegner zugefügt).</i>",
+		"traits": "Gegenstand. Waffe. Fernkampf.",
+	},
+	{
+		"code": "05274",
+		"name": "Unterstützungstrupp der Behörde",
+		"slot": "Verbündeter",
+		"text": "Dem Unterstützungstrupp der Behörde darf Schaden und/oder Horror zugewiesen werden, der anderen Ermittlern an deinem Ort zugefügt wird.\n[free] Erschöpfe den Unterstützungstrupp der Behörde und füge dieser Karte 1 Schaden zu: Füge einem Gegner an deinem Ort 1 Schaden zu.\n[free] Erschöpfe den Unterstützungstrupp der Behörde und füge ihm 1 Horror zu: Du entdeckst 1 Hinweis an deinem Ort.",
+		"traits": "Verbündeter. Behörde."
+	},
+	{
+		"code": "05275",
+		"name": "Entsetzliche Offenbarung",
+		"text": "Du entdeckst 3 Hinweise an deinem Ort. Gib eine beliebige Anzahl deiner Hinweise einem anderen Ermittler oder platziere eine beliebige Anzahl deiner Hinweise auf einen beliebigen Ort. Du bist besiegt und erleidest 1 seelisches Trauma. Diese Aktion provoziert keine Gelegenheitsangriffe.",
+		"traits": "Geist."
+	},
+	{
+		"code": "05276",
+		"flavor": "Vielleicht hätte Gilman sein Studium nicht so intensiv betreiben sollen.\n-H. P. Lovecraft, <u>Träume im Hexenhaus</u>",
+		"name": "Lernbegierig",
+		"text": "Dauerhaft.\nDu beginnst jedes Spiel mit 1 zusätzlichen Karte auf deiner Starthand.",
+		"traits": "Talent."
+	},
+	{
+		"code": "05277",
+		"name": "Kleine Gefälligkeit",
+		"text": "Füge einem Nicht-[[Elite]]-Gegner an deinem Ort 1 Schaden zu.\n[reaction] Sobald du Kleine Gefälligkeit ausspielst, erhöhe die Kosten dieser Karte um 2: Ändere „Füge 1 Schaden zu“ in „Füge 2 Schaden zu“.\n[reaction] Sobald du Kleine Gefälligkeit ausspielst, erhöhe die Kosten dieser Karte um 2: Ändere „an deinem Ort“ in „an einem bis zu 2 Verbindungen entfernten Ort“.",
+		"traits": "Gefallen. Dienst."
+	},
+	{
+		"code": "05278",
+		"flavor": "Verliere nie den Blick für das wirklich Wichtige.",
+		"name": "Neuer Tag, neues Geld",
+		"text": "Dauerhaft.\nDu beginnst jedes Spiel mit 2 zusätzlichen Ressourcen.",
+		"traits": "Talent."
+	},
+	{
+		"code": "05279",
+		"name": "Dayana Esperence",
+		"subname": "Paktiert mit „Teufeln“",
+		"slot": "Verbündeter",
+		"text": "Anwendungen (3 Geheimnisse).\n[free]: Hänge eine Nicht-Schwäche-[[Zauber]]-Ereigniskarte von deiner Hand an Dayana Esperence an. Nur 1 Ereigniskarte kann an sie angehängt werden.\nDie angehängte Karte darf gespielt werden, als ob sie sich auf deiner Hand befände. Sie wird nach dem Spielen nicht auf den Ablagestapel platziert <i>(sie bleibt angehängt)</i>. Als zusätzliche Kosten, um die angehängte Ereigniskarte zu spielen, erschöpfe Dayana Esperence und gib 1 Geheimnis aus.",
+		"traits": "Verbündeter. Hexe."
+	},
+	{
+		"code": "05280",
+		"name": "Existenz verleugnen",
+		"text": "Schnell. Spiele diese Karte, sobald dich eine Begegnungskarte oder ein Angriff eines Gegners zu einem der folgenden Effekte zwingen würde (wähle einen): Karten von der Hand ablegen, Ressourcen verlieren, Aktionen verlieren, Schaden nehmen oder Horror nehmen.\nDu ignorierst jenen Aspekt des Effekts. Führe dann das entsprechende Gegenteil davon durch (Karten ziehen, Ressourecen erhalten, zusätzliche Aktionen erhalten, Schaden heilen oder Horror heilen).",
+		"traits": "Zauber. Paradox."
+	},
+	{
+		"code": "05281",
+		"flavor": "Du weißt nie, was wirklich in dir steckt, bis es einmal wirklich darauf ankommt.",
+		"name": "Feuerprobe",
+		"text": "Schnell. Spiele diese Karte nur in deinem Zug.\nWähle 1 deiner Fertigkeiten. Setze den Grundwert jener Fertigkeit bis zum Ende deines Zuges auf 5.",
+		"traits": "Geist."
+	},
+	{
+		"code": "05282",
+		"name": "Lockvogeltaktik",
+		"text": "Entweder (wähle eins):\n- <b>Entkommen.</b> Falls die Probe gelingt und es ein Nicht-[[Elite]]-Gegner ist, entkomme diesem Gegner und bewege ihn an einen Verbundenen Ort.\n- <b>Entkommen.</b> Nur bei einem Nicht-[[Elite]]-Gegner an einem Verbundenen Ort verwenden. Falls die Probe gelingt, entkomme diesem Gegner und tausche mit ihm den Ort.",
+		"traits": "Taktik."
+	},
+	{
+		"code": "05283",
+		"name": "Anna Kaslow",
+		"subname": "Mysteriöse Wahrsagerin",
+		"slot": "Verbündeter",
+		"text": "Du hast 2 zusätzliche Tarotslots.\n[reaction] Sobald das Spiel beginnt, falls sich Anna Kaslow auf deiner Starthand befindet: Bringe sie ins Spiel.\n[reaction] Nachdem Anna Kaslow ins Spiel gekommen ist: Durchsuche dein Deck nach einer [[Tarot]]-Vorteilskarte und bringe sie ins Spiel.",
+		"traits": "Verbündeter. Hellsichtig."
+	}
 ]
